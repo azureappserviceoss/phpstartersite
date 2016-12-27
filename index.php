@@ -19,7 +19,7 @@
          </li>
         <li class="asterisk">
             <div class="visit">
-                To learn more about PHP, visit <a href="http://php.net" title="PHP.net Website">http://php.net</a>. 
+               To learn more about PHP, visit <a href="http://php.net" title="PHP.net Website">http://php.net</a>. 
             </div>
          </li>
     </ol>
