@@ -6,7 +6,7 @@
 
 
     <div id="main">
-    <h3>Get started with your website</h3>
+    <h3>...Get started with your website...</h3>
 
     <ol class="round">
         <li class="one">
