@@ -1,5 +1,5 @@
 <?php
-    require_once ("/Includes/simplecms-config.php");
+    require_once ("Includes/simplecms-config.php");
 
     function prep_DB_content ()
     {
